@@ -17,7 +17,8 @@
 | 电影                                       | 时间        | 地点     | 观感                                       |
 | ---------------------------------------- | --------- | ------ | ---------------------------------------- |
 | ![无问西东](http://ougqc78n7.bkt.clouddn.com/%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C.jpg?imageView/2/w/200/q/90) | 2018/1/14 | 柳州嘉华影院 | [无问西东](https://github.com/wangbo-thu/2018/blob/master/Reading/%E3%80%8A%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C%E3%80%8B.md) |
-| ![极地特快](http://ougqc78n7.bkt.clouddn.com/%E6%9E%81%E5%9C%B0%E7%89%B9%E5%BF%AB.jpg?imageView/2/w/200/q/90) | 2018/1/15 | 电脑     | 感冒发烧，太早又睡不着，在宾馆看了这部很早就想看的圣诞电影。when christmas comes to town 实在是很棒，很有温度，当初也是因为这首曲子，才想看这部电影。Believe实力诠释信则灵。永怀童真，勇敢善良。 |
+| ![极地特快](http://ougqc78n7.bkt.clouddn.com/%E6%9E%81%E5%9C%B0%E7%89%B9%E5%BF%AB.jpg?imageView/2/w/200/q/90) | 2018/1/15 | 柳州     | 感冒发烧，太早又睡不着，在宾馆看了这部很早就想看的圣诞电影。when christmas comes to town 实在是很棒，很有温度，当初也是因为这首曲子，才想看这部电影。Believe实力诠释信则灵。永怀童真，勇敢善良。 |
+| 奇迹男孩                                     | 2018/1/31 | 寝室     | 很感动，喜欢这种氛围的家庭，不知自己能否成为这样的父亲。             |
 
 
 
