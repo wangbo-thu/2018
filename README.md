@@ -14,19 +14,24 @@
 
 ### 2月书单
 
-| 书名              | 完成日期 | 读书笔记                                                     | 标签 |
-| ----------------- | -------- | ------------------------------------------------------------ | ---- |
-| The Little Prince | 2018.2.8 | [The Little Prince](https://github.com/wangbo-thu/2018/blob/master/Reading/the%20little%20prince.md) | 小说 |
+| 书名                        | 完成日期      | 读书笔记                                     | 标签   |
+| ------------------------- | --------- | ---------------------------------------- | ---- |
+| The Little Prince         | 2018.2.8  | [The Little Prince](https://github.com/wangbo-thu/2018/blob/master/Reading/the%20little%20prince.md) | 儿童文学 |
+| 写出我心：普通人如何通过写作表达自己        | 2018.2.10 |                                          | 禅修   |
+| The House on Mango Street | 2018.2.27 |                                          | 儿童文学 |
+| 小学问                       | 在读        |                                          |      |
+| 禅与日本文化                    | 在读        |                                          |      |
 
 
 
 ### 观影记录
 
-| 电影                                                         | 时间      | 地点         | 观感                                                         |
-| ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
+| 电影                                       | 时间        | 地点     | 观感                                       |
+| ---------------------------------------- | --------- | ------ | ---------------------------------------- |
 | ![无问西东](http://ougqc78n7.bkt.clouddn.com/%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C.jpg?imageView/2/w/200/q/90) | 2018/1/14 | 柳州嘉华影院 | [无问西东](https://github.com/wangbo-thu/2018/blob/master/Reading/%E3%80%8A%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C%E3%80%8B.md) |
-| ![极地特快](http://ougqc78n7.bkt.clouddn.com/%E6%9E%81%E5%9C%B0%E7%89%B9%E5%BF%AB.jpg?imageView/2/w/200/q/90) | 2018/1/15 | 柳州         | 感冒发烧，太早又睡不着，在宾馆看了这部很早就想看的圣诞电影。when christmas comes to town 实在是很棒，很有温度，当初也是因为这首曲子，才想看这部电影。Believe实力诠释信则灵。永怀童真，勇敢善良。 |
-| ![wonder](http://ougqc78n7.bkt.clouddn.com/wonder.jpg?imageView/2/w/200/q/90) | 2018/1/31 | 寝室         | [wonder](https://github.com/wangbo-thu/2018/blob/master/Reading/Wonder.md) |
+| ![极地特快](http://ougqc78n7.bkt.clouddn.com/%E6%9E%81%E5%9C%B0%E7%89%B9%E5%BF%AB.jpg?imageView/2/w/200/q/90) | 2018/1/15 | 柳州     | 感冒发烧，太早又睡不着，在宾馆看了这部很早就想看的圣诞电影。when christmas comes to town 实在是很棒，很有温度，当初也是因为这首曲子，才想看这部电影。Believe实力诠释信则灵。永怀童真，勇敢善良。 |
+| ![wonder](http://ougqc78n7.bkt.clouddn.com/wonder.jpg?imageView/2/w/200/q/90) | 2018/1/31 | 寝室     | [wonder](https://github.com/wangbo-thu/2018/blob/master/Reading/Wonder.md) |
+| 妖猫传                                      | 2018/2/24 | 寝室     | 大唐盛世，场面恢弘，故事讲的还行，不再痛苦的秘密是什么？爱吗？大唐所有的男人都爱慕着杨玉环，有空读读《长恨歌》 |
 
 
 
@@ -40,11 +45,11 @@
 
 ### 日剧
 
-| 剧名                | 日期                                | 地点 | 感想                                                         |
-| ------------------- | ----------------------------------- | ---- | ------------------------------------------------------------ |
-| 派遣员的品格        | 2018/1/28(1-5)<br />2018/1/29(6-10) | 寝室 | [派遣员的品格](https://github.com/wangbo-thu/2018/blob/master/Reading/%E6%B4%BE%E9%81%A3%E5%91%98%E7%9A%84%E5%93%81%E6%A0%BC.md) |
-| step up: high water | 2018/2/5(1-4)                       | 家   | Don't be sorry, be smart! 舞蹈很燃，底层人民向上的渴望与决心，岂能甘心放弃！ |
-| 四重奏              | 2018/2/7                            | 家   | [四重奏](https://github.com/wangbo-thu/2018/blob/master/Reading/%E5%9B%9B%E9%87%8D%E5%A5%8F.md) |
+| 剧名                  | 日期                             | 地点   | 感想                                       |
+| ------------------- | ------------------------------ | ---- | ---------------------------------------- |
+| 派遣员的品格              | 2018/1/28(1-5) 2018/1/29(6-10) | 寝室   | [派遣员的品格](https://github.com/wangbo-thu/2018/blob/master/Reading/%E6%B4%BE%E9%81%A3%E5%91%98%E7%9A%84%E5%93%81%E6%A0%BC.md) |
+| step up: high water | 2018/2/5(1-4)                  | 家    | Don't be sorry, be smart! 舞蹈很燃，底层人民向上的渴望与决心，岂能甘心放弃！ |
+| 四重奏                 | 2018/2/7                       | 家    | [四重奏](https://github.com/wangbo-thu/2018/blob/master/Reading/%E5%9B%9B%E9%87%8D%E5%A5%8F.md) |
 
 
 
